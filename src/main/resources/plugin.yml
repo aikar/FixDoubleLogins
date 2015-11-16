@@ -1,0 +1,4 @@
+name: FixDoubleLogins
+main: co.aikar.FixDoubleLogins
+version: 1
+author: Aikar
