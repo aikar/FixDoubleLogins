@@ -10,7 +10,7 @@
 
     <repositories>
         <repository>
-            <id>empireminecraft</id>
+            <id>spigotmc</id>
             <url>https://hub.spigotmc.org/nexus/content/groups/public/</url>
         </repository>
     </repositories>
